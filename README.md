@@ -27,6 +27,6 @@ Standard workstation node successfully integrated into the corporate domain infr
 
 ## 📂 Laboratory Index
 1. **[Lab 01: WAN Routing & DNS Forwarding](./labs/lab01-routing-dns.md)** - Implemented dual-NIC routing and DNS forwarders to securely connect to an isolated AD domain to the internet.
-  
+2. **[Lab 02: Active Directory Identity Management & Workstation Sharing](./labs/lab02-identity-management-workstation-sharing.md)** - Implemented unprivileged account isolation, tiered administrative segregation, and enforced the Principle of Least Privilege (PoLP) on a shared NOC workstation.
 
 
